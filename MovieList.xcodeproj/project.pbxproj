@@ -13,6 +13,7 @@
 		8D0500642B1477830007293C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D0500632B1477830007293C /* Preview Assets.xcassets */; };
 		8D05006B2B147C0B0007293C /* MovieRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D05006A2B147C0B0007293C /* MovieRowView.swift */; };
 		8D05006D2B147D8E0007293C /* MovieDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D05006C2B147D8E0007293C /* MovieDetailView.swift */; };
+		8DB8930F2B25ABFC00A4220F /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB8930E2B25ABFC00A4220F /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		8D0500632B1477830007293C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8D05006A2B147C0B0007293C /* MovieRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieRowView.swift; sourceTree = "<group>"; };
 		8D05006C2B147D8E0007293C /* MovieDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailView.swift; sourceTree = "<group>"; };
+		8DB8930E2B25ABFC00A4220F /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				8D05005C2B1477820007293C /* MovieListApp.swift */,
 				8D05005E2B1477820007293C /* ContentView.swift */,
+				8DB8930E2B25ABFC00A4220F /* Data.swift */,
 				8D05006A2B147C0B0007293C /* MovieRowView.swift */,
 				8D05006C2B147D8E0007293C /* MovieDetailView.swift */,
 				8D0500602B1477830007293C /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D05005F2B1477820007293C /* ContentView.swift in Sources */,
+				8DB8930F2B25ABFC00A4220F /* Data.swift in Sources */,
 				8D05005D2B1477820007293C /* MovieListApp.swift in Sources */,
 				8D05006D2B147D8E0007293C /* MovieDetailView.swift in Sources */,
 				8D05006B2B147C0B0007293C /* MovieRowView.swift in Sources */,
